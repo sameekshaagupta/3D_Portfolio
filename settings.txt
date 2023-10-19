@@ -1,0 +1,4 @@
+root: C:\Users\SAMEEKSHA\REACT\Project-2 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
